@@ -1,0 +1,10 @@
+{
+  "stocks": [
+    {"code": "600519", "name": "贵州茅台", "market": "A", "tags": ["白酒"]},
+    {"code": "00700", "name": "腾讯控股", "market": "HK", "tags": ["互联网"]},
+    {"code": "03690", "name": "美团", "market": "HK", "tags": ["本地生活"]},
+    {"code": "01211", "name": "比亚迪", "market": "HK", "tags": ["新能源车"]},
+    {"code": "AAPL", "name": "苹果", "market": "US", "tags": ["科技"]},
+    {"code": "TSLA", "name": "特斯拉", "market": "US", "tags": ["新能源车"]}
+  ]
+}
